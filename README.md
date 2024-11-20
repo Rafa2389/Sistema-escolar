@@ -1,2 +1,2 @@
-# -sistema-escolar
+# Sistema-escolar
 Aplicativo Escolar em React Native com Navegação via Drawer Menu
